@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Repetition Task 1", "Nested Repetition Task 1\Nested Repetition Task 1.csproj", "{88421615-5F83-47D1-9653-E18BD65076EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Repetition Task 2", "Nested Repetition Task 2\Nested Repetition Task 2.csproj", "{272158E6-1D7B-4DDD-94EC-B913047B447E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Repetition Task 3+4", "Nested Repetition Task 3+4\Nested Repetition Task 3+4.csproj", "{5EDCF989-B643-4244-A8ED-C3C568F774EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88421615-5F83-47D1-9653-E18BD65076EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88421615-5F83-47D1-9653-E18BD65076EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88421615-5F83-47D1-9653-E18BD65076EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88421615-5F83-47D1-9653-E18BD65076EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272158E6-1D7B-4DDD-94EC-B913047B447E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272158E6-1D7B-4DDD-94EC-B913047B447E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272158E6-1D7B-4DDD-94EC-B913047B447E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272158E6-1D7B-4DDD-94EC-B913047B447E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDCF989-B643-4244-A8ED-C3C568F774EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDCF989-B643-4244-A8ED-C3C568F774EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDCF989-B643-4244-A8ED-C3C568F774EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDCF989-B643-4244-A8ED-C3C568F774EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

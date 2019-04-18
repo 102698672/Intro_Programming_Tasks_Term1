@@ -1,0 +1,12 @@
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Array Task 1.exe.config
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Array Task 1.exe
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Array Task 1.pdb
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Array Task 1.csprojResolveAssemblyReference.cache
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Array Task 1.exe
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Array Task 1.pdb
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\bin\Debug\Array Task 1.exe.config
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\bin\Debug\Array Task 1.exe
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\bin\Debug\Array Task 1.pdb
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\obj\Debug\Array Task 1.csprojResolveAssemblyReference.cache
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\obj\Debug\Array Task 1.exe
+C:\Users\102698672\Documents\SharpDevelop Projects\Arrays and Lists\Array Task 1\obj\Debug\Array Task 1.pdb
